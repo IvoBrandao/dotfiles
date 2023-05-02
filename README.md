@@ -5,12 +5,12 @@ This repository contains dotfiles configurations I use day to day. feel free to 
 __content__
 
 * configuration for macos
-    * yabai 
-    * skh
-    * zsh
-    * Iterm2
-    * neo vim
+    * [yabai](https://github.com/koekeishiya/yabai.git)
+    * [skhd](https://github.com/koekeishiya/skhd.git)
+    * zsh 
+    * iterm2
+    * neo vim configuration
 
 * configuration for ubuntu
-    * neo vim
+    * neo vim configuration
 
