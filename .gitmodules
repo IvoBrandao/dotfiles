@@ -1,0 +1,9 @@
+[submodule "macos/.config/iterm"]
+	path = macos/.config/iterm
+	url = https://github.com/catppuccin/iterm.git
+[submodule "macos/.config/nvim"]
+	path = macos/.config/nvim
+	url = git@github.com:IvoBrandao/nvim-config.git
+[submodule "ubuntu/.config/nvim"]
+	path = ubuntu/.config/nvim
+	url = git@github.com:IvoBrandao/nvim-config.git
